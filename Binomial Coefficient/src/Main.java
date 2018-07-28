@@ -8,7 +8,7 @@ public class Main {
     //Dynamic binomial coefficient 
     // 100 % completed
     // now program supports a larger range and it's more accurate than before thanks to  using BigInteger instead of Integer
-    // created By Alireza Salehi
+    // created By Alireza Salehi rizi
     //finished  2018/15/06  0:47
     // auxiliary space has been decreased (K+1) length array (unoptimized one is (((n-1)(n))/2)+k )
     // complexity is : ((K)*(K+1) /2 ) + ( (n-1) - (k) +1  )*(k)  +1
