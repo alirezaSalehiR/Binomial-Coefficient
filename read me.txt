@@ -1,0 +1,9 @@
+# Binomial-Coefficient
+
+# dynamic programming 
+
+# algorithm
+ 
+# for more information : https://en.wikipedia.org/wiki/Binomial_coefficient 
+# it is based on what I have learned on my algorith class.
+# if you have any better idea , please shaare.
